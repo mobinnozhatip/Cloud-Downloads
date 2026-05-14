@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3452",
+  "folder": "Other__mhrv-rs-windows-amd64_20260514003015_09ba85",
+  "base_name": "Other__mhrv-rs-windows-amd64_20260514003015_09ba85.zip",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mobinnozhatip/Cloud-Downloads/releases/tag/co-releases-v1-3452",
+  "files": [
+    {
+      "name": "Other__mhrv-rs-windows-amd64_20260514003015_09ba85.zip",
+      "url": "https://github.com/mobinnozhatip/Cloud-Downloads/releases/download/co-releases-v1-3452/Other__mhrv-rs-windows-amd64_20260514003015_09ba85.zip",
+      "api_url": "https://api.github.com/repos/mobinnozhatip/Cloud-Downloads/releases/assets/419741048",
+      "id": 419741048,
+      "size": 7868274,
+      "download_count": 0
+    }
+  ]
+}
